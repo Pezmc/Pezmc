@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pezmc" target="blank"><img src="https://img.shields.io/twitter/follow/pezmc?logo=twitter&style=for-the-badge" alt="pezmc" /></a> </p>
 
-- 🔭 I’m currently working with [Harvest](http://getharvest.com/)
+- 🔭 I’m currently working [freelance](http://pezcuckow.com/)
 
 - 🤝 I’m looking for help with [My Skiing Retreat for Remote Workers](https://nomadsinthesnow.com/)
 
