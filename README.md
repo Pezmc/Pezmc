@@ -13,7 +13,7 @@
 
 - 👨‍💻 Examples of my projects are available at [http://pezcuckow.com/](http://pezcuckow.com/)
 
-- 💬 Ask me about **react, ember and webpack**
+- 💬 Ask me about **Vue.js, React, Node.js**
 
 - 📫 How to reach me **email at pezcuckow.com**
 
